@@ -2,7 +2,4 @@
 A tour of commonly used optimizers 
 
 ## Tools used
-
--Python \n
--numpy
--Pytorch
+Python, Numpy, Matplotlib, Pytorch
